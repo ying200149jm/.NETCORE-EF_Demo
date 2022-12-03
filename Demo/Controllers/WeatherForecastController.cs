@@ -44,6 +44,7 @@ namespace FirstApi.Controllers
             return result;
         }
     }
+
     /// <summary>
     /// ²ÎÊı
     /// </summary>
